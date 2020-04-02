@@ -21,7 +21,7 @@ IMPORTANT:
 ----------
 Data crawled by twitter account user name (same as txt file name), some of the accounts may lost maintaince for long time (for example @SanidadPublicaEs, stop tweeting at 2014, but activate this account another time when COVID-19 became global crisis).
 
-I did NOT clean the historical data before coronavirus outbreak. Any questions, contact with me (see email below)
+I did NOT remove the historical data before coronavirus outbreak. Any questions, contact with me (see email below)
 
 --------------
 How to Hydrate
