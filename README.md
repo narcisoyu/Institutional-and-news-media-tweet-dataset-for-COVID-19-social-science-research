@@ -38,4 +38,5 @@ Please follow the instructions
 ----------
 Contact me
 ----------
-Jingyuan Yu  jingyuan[dot]yu[at]e-campus[dot]uab[dot]cat
+Jingyuan Yu  
+jingyuan[dot]yu[at]e-campus[dot]uab[dot]cat
