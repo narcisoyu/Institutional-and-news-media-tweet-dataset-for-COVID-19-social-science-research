@@ -45,15 +45,6 @@ Contact me
 Jingyuan Yu  
 jingyuan[dot]yu[at]e-campus[dot]uab[dot]cat
 
-------------
-How to Cite?
-------------
-@inproceedings{Yu2020OpenAI,
-  title={Open access institutional and news media tweet dataset for COVID-19 social science research},
-  author={Jingyuan Yu},
-  year={2020}
-}
-
 -------
 License
 -------
