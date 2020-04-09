@@ -3,7 +3,6 @@ Open access data repository for institutional/news media tweet dataset in the ti
 
 Detail information pre-print avaliable at: https://arxiv.org/abs/2004.01791
 
-
 ---------------------
 UPDATE EVERY THURSDAY
 ---------------------
@@ -45,6 +44,15 @@ Contact me
 ----------
 Jingyuan Yu  
 jingyuan[dot]yu[at]e-campus[dot]uab[dot]cat
+
+------------
+How to Cite?
+------------
+@inproceedings{Yu2020OpenAI,
+  title={Open access institutional and news media tweet dataset for COVID-19 social science research},
+  author={Jingyuan Yu},
+  year={2020}
+}
 
 -------
 License
