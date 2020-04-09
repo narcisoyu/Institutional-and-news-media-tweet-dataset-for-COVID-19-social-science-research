@@ -19,6 +19,8 @@ This means the first time I collect the most recent 3200 tweets (official limits
 
 First online update: April 2, 2020
 
+V1.1: update data from April 2 to April 8.
+
 ----------
 IMPORTANT:
 ----------
