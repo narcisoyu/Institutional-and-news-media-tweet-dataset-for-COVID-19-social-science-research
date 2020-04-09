@@ -3,7 +3,6 @@ Open access data repository for institutional/news media tweet dataset in the ti
 
 Detail information pre-print avaliable at: https://arxiv.org/abs/2004.01791
 
-
 ---------------------
 UPDATE EVERY THURSDAY
 ---------------------
