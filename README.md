@@ -17,7 +17,9 @@ First data collection at March 12, 2020 (updated on my PC every week).
 This means the first time I collect the most recent 3200 tweets (official limits) of all the target accounts, then update weekly.
 
 
-First online update: April 2, 2020
+First online: April 2, 2020
+
+V1.1: update data from April 2 to April 8.
 
 ----------
 IMPORTANT:
