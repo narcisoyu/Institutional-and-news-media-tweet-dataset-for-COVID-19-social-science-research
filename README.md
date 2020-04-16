@@ -17,10 +17,15 @@ This means the first time I collect the most recent 3200 tweets (official limits
 
 V1.2: 
 update data from April 9 to April 15.
+
 New added: EU_leadership (@BorisJohnson, @EmmanuelMacron, @GiuseppeconteIT, @sanchezcastejon)
+
 New added: election_us (@BernieSanders, @JoeBiden, @realDonaldTrump, @POTUS)
+
 New added: national_gov_foreign_office (you can see this as a huge update to the previous gov file, which include 14 European/US/Chinese government/foreign office accounts)
+
 Minor changes: @globaltimesnews moved from ADDITIONAL_news_tweet_id to CHINA_news_tweet_id.
+
 @spiegelonline stop tweeting at 20200108, it was removed from my collection query, tweet_id were saved on V1.0.
 
 V1.1: 
