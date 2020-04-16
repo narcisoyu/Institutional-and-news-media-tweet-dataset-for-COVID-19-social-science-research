@@ -15,10 +15,17 @@ Data collected using twitter REST API.
 First data collection at March 12, 2020 (updated on my PC every week).
 This means the first time I collect the most recent 3200 tweets (official limits) of all the target accounts, then update weekly.
 
+V1.2: update data from April 9 to April 15.
+      New added: EU_leadership (@BorisJohnson, @EmmanuelMacron, @GiuseppeconteIT, @sanchezcastejon)
+      New added: election_us (@BernieSanders, @JoeBiden, @realDonaldTrump, @POTUS)
+      New added: national_gov_foreign_office (you can see this as a huge update to the previous gov file, which include 14                      European/US/Chinese government/foreign office accounts)
+      Minor changes: @globaltimesnews moved from ADDITIONAL_news_tweet_id to CHINA_news_tweet_id.
+                     @spiegelonline stop tweeting at 20200108, it was removed from my collection query, tweet_id were saved                         on V1.0.
+
+V1.1: update data from April 2 to April 8.
 
 First online: April 2, 2020
 
-V1.1: update data from April 2 to April 8.
 
 ----------
 IMPORTANT:
