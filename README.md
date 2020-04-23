@@ -18,8 +18,8 @@ This means the first time I collect the most recent 3200 tweets (official limits
 ##V1.3:
 update data from April 16 to April 22.
 * New added: `BR_tweets` Brazilian government, president, news media
-* Attention: During 0416-0422 @French_Gov tweeted 0 message
-* Attention: During 0416-0422 @BorisJohnson tweeted 0 message
+* Attention: During 0416-0422 `@French_Gov` tweeted 0 message
+* Attention: During 0416-0422 `@BorisJohnson` tweeted 0 message
 
 ##V1.2: 
 update data from April 9 to April 15.
