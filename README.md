@@ -15,6 +15,11 @@ Data collected using twitter REST API.
 First data collection at March 12, 2020 (updated on my PC every week).
 This means the first time I collect the most recent 3200 tweets (official limits) of all the target accounts, then update weekly.
 
+##V1.4:
+update data from April 23 to April 29.
+* Attention: During 0423-0429 `@BrazilGovNews` tweeted 0 message
+* Attention: During 0423-0429 `@French_Gov` tweeted 0 message
+
 ##V1.3:
 update data from April 16 to April 22.
 * New added: `BR_tweets` Brazilian government, president, news media
