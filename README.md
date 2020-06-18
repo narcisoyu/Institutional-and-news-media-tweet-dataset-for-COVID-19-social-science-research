@@ -15,7 +15,7 @@ Data collected using twitter REST API.
 First data collection at March 12, 2020 (updated on my PC every week).
 This means the first time I collect the most recent 3200 tweets (official limits) of all the target accounts, then update weekly.
 
-##V1.10:
+##V1.11:
 update data from Jun 11 to Jun 17
 * New added: `TR_tweet_id` Turkish gov, president and news media tweets
 * Attention: During 0611-0617 `@BrazilGovNews` tweeted 0 message
