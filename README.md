@@ -16,6 +16,13 @@ First data collection at March 12, 2020 (updated on my PC every week).
 This means the first time I collect the most recent 3200 tweets (official limits) of all the target accounts, then update weekly.
 
 ##V1.10:
+update data from Jun 11 to Jun 17
+* New added: `TR_tweet_id` Turkish gov, president and news media tweets
+* Attention: During 0611-0617 `@BrazilGovNews` tweeted 0 message
+* Attention: During 0611-0617 `@Itamaraty_EN` tweeted 0 message
+* Attention: During 0611-0617 `@French_Gov` tweeted 0 message
+
+##V1.10:
 update data from Jun 4 to Jun 10
 * Attention: During 0604-0610 `@BrazilGovNews` tweeted 0 message
 * Attention: During 0604-0610 `@Itamaraty_EN` tweeted 0 message
