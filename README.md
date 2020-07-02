@@ -15,6 +15,11 @@ Data collected using twitter REST API.
 First data collection at March 12, 2020 (updated on my PC every week).
 This means the first time I collect the most recent 3200 tweets (official limits) of all the target accounts, then update weekly.
 
+##V1.13:
+update data from Jun 25 to Jul 1
+* New added: Two Italian news media: `@LaStampa` and `@Corriere`
+* `@BrazilGovNews` and `@French_Gov` tweeted 0 message
+
 ##V1.12:
 update data from Jun 18 to Jun 24
 * New added: `SE_tweet_id` Swedish gov, PM and news media tweets
