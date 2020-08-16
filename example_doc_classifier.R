@@ -21,7 +21,7 @@ out <- split(data, f = data$author)
 
 for (user in list) {
   out[[user]] <- subset(out[[user]], out[[user]][["date"]] >= as.Date(Sys.Date() - 7))
-  out[[user]] <- subset(out[[user]], out[[user]][["date"]] <= as.Date(Sys.Date()))
+  out[[user]] <- subset(out[[user]], out[[user]][["date"]] < as.Date(Sys.Date()))
   write.csv(out[[user]], paste0(user,".csv"), row.names = FALSE, fileEncoding = 'UTF-8')
   write.table(out[[user]][["id.tweet"]], file = paste0("election_us_tweet_id/",user,"_id.txt"),col.names = FALSE,row.names = FALSE, quote = FALSE, fileEncoding = "UTF-8")
 }
