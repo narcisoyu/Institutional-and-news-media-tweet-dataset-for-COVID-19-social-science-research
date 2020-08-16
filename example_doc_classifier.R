@@ -20,10 +20,14 @@ data$author <- gsub("@", "", data$author)
 out <- split(data, f = data$author)
 
 for (user in list) {
+#subset dataframes by time (I update my dataset every Thursday)
   out[[user]] <- subset(out[[user]], out[[user]][["date"]] >= as.Date(Sys.Date() - 7))
   out[[user]] <- subset(out[[user]], out[[user]][["date"]] < as.Date(Sys.Date()))
+#save the full data as csv (for my own use)
   write.csv(out[[user]], paste0(user,".csv"), row.names = FALSE, fileEncoding = 'UTF-8')
+#export tweet id in txt file to put it online (because of the Twitter policy, I can't upload the full data)
   write.table(out[[user]][["id.tweet"]], file = paste0("election_us_tweet_id/",user,"_id.txt"),col.names = FALSE,row.names = FALSE, quote = FALSE, fileEncoding = "UTF-8")
 }
 
+#expand the list of dataset into individual dataframes
 #list2env(out,globalenv())
