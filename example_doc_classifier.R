@@ -4,19 +4,19 @@ data <- as.data.frame(read.table(file = "election_us_tweets.txt",
                               header = TRUE, sep = "\t", 
                               quote = "", numerals = c("no.loss") , 
                               comment.char = ""))
+
 #create a list of the username
-#it is necessary, because you are control the document export.
-#if you do not run this script with this list, you get all the retrieved documents
-#but the fact is that this is not the optimistic
+#it is NOT necessary, but you may want to control the document export.
 #for example, there are some accounts that stopped updating their tweets...
 list <- c("BernieSanders","JoeBiden","POTUS","realDonaldTrump")
 
-#convert data$date from factor to date
+#convert data date from factor to date
 data$date <- as.POSIXct(data$date)
 
 #remove @ in data$author
 data$author <- gsub("@", "", data$author)
 
+#split dataset into list of dataframes by author..
 out <- split(data, f = data$author)
 
 for (user in list) {
