@@ -29,5 +29,5 @@ for (user in list) {
   write.table(out[[user]][["id.tweet"]], file = paste0("election_us_tweet_id/",user,"_id.txt"),col.names = FALSE,row.names = FALSE, quote = FALSE, fileEncoding = "UTF-8")
 }
 
-#expand the list of dataset into individual dataframes
+#expand/split the list of datasets into individual dataframes
 #list2env(out,globalenv())
