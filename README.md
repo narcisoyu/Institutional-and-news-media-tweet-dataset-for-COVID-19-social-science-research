@@ -16,7 +16,7 @@ First data collection at March 12, 2020 (updated on my PC every week).
 This means the first time I collect the most recent 3200 tweets (official limits) of all the target accounts, then update weekly.
 
 ##Extra update 1
-`example_doc_classifier.R` is the example (election_us) script I used to subset all the collected data
+* `example_doc_classifier.R` is the example (election_us) script I used to subset all the collected data
 
 ##V1.19
 update data from Aug 6 to Aug 12
