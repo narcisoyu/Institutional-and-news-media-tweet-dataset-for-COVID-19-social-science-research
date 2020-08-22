@@ -135,6 +135,12 @@ https://github.com/DocNow/twarc
 
 Please follow the instructions
 
+-------------
+Papers that have mentioned/used this dataset
+-------------
+* Shuja, J., Alanazi, E., Alasmary, W., & Alashaikh, A. (2020). Covid-19 open source data sets: A comprehensive survey. medRxiv.
+* Yu, J., Lu, Y., & Muñoz-Justicia, J. (2020). Analyzing Spanish News Frames on Twitter during COVID-19—A Network Study of El País and El Mundo. International Journal of Environmental Research and Public Health, 17(15), 5414.
+
 ----------
 Contact me
 ----------
