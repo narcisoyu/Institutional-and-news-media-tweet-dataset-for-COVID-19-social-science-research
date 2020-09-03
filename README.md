@@ -15,6 +15,11 @@ Data collected using twitter REST API.
 First data collection at March 12, 2020 (updated on my PC every week).
 This means the first time I collect the most recent 3200 tweets (official limits) of all the target accounts, then update weekly.
 
+##V1.22
+update data from Aug 27 to Sep 2
+* `@BrazilGovNews`, `@Itamaraty_EN`, `@SwedishPM`, `@French_Gov` and `@foreignoffice` tweet 0 message
+* It seems like the twitter account `@foreignoffice` has met some problem, and the tweets are not publicly available any more.
+
 ##V1.21
 update data from Aug 20 to Aug 26
 * `@BrazilGovNews`, `@socialstyrelsen` and `@French_Gov` tweet 0 message
