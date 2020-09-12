@@ -159,7 +159,9 @@ Papers that have mentioned/used this dataset
 Contact me
 ----------
 Jingyuan Yu  
+
 jingyuan[dot]yu[at]e-campus[dot]uab[dot]cat
+
 narcisoyu[at]gmail[dot]com
 
 -------
