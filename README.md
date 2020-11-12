@@ -185,6 +185,7 @@ Please follow the instructions
 -------------
 Papers that have mentioned/used this dataset
 -------------
+* 吉田光男. (2020). COVID-19 流行下におけるソーシャルメディア—日本での状況と研究動向・公開データセット—. 人工知能, 35(5), 644-653.
 * Liang, S., Wong, D. F., & Zhang, Y. (2020, October). 新型冠状病毒肺炎相关的推特主题与情感研究 (Exploring COVID-19-related Twitter Topic Dynamics across Countries). In Proceedings of the 19th Chinese National Conference on Computational Linguistics (pp. 707-718).
 * Shuja, J., Alanazi, E., Alasmary, W., & Alashaikh, A. (2020). Covid-19 open source data sets: A comprehensive survey. medRxiv.
 * Yu, J., Lu, Y., & Muñoz-Justicia, J. (2020). Analyzing Spanish News Frames on Twitter during COVID-19—A Network Study of El País and El Mundo. International Journal of Environmental Research and Public Health, 17(15), 5414.
