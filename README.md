@@ -15,6 +15,10 @@ Data collected using twitter REST API.
 First data collection at March 12, 2020 (updated on my PC every week).
 This means the first time I collect the most recent 3200 tweets (official limits) of all the target accounts, then update weekly.
 
+##V1.38
+update data from Dec 17 to Dec 23
+Merry Xmas
+
 ##V1.37
 update data from Dec 10 to Dec 16
 * Due to their low tweeting frequency, `@BrazilGovNews` and `@French_Gov` have been removed from my tracking list.
