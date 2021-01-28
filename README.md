@@ -15,6 +15,9 @@ Data collected using twitter REST API.
 First data collection at March 12, 2020 (updated on my PC every week).
 This means the first time I collect the most recent 3200 tweets (official limits) of all the target accounts, then update weekly.
 
+##V1.43
+update data from Jan 21 to Jan 27
+
 ##V1.42
 update data from Jan 14 to Jan 20
 * `@socialstyrelsen` tweeted 0 message
