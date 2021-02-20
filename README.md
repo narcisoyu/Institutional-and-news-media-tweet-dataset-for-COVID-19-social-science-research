@@ -3,6 +3,14 @@ Open access data repository for institutional/news media tweet dataset in the ti
 
 Detail information pre-print avaliable at: https://arxiv.org/abs/2004.01791
 
+
+-----------------------
+#IMPORTANT INFORMATION
+-----------------------
+As Twitter has provided a new academic API, which gives access to full historical data, this dataset will be no longer updated since Feb 20, 2021. 
+
+Thank you very much for all your interests in this small project.
+
 ---------------------
 #UPDATE EVERY THURSDAY
 ---------------------
@@ -14,6 +22,9 @@ Data collected using twitter REST API.
 
 First data collection at March 12, 2020 (updated on my PC every week).
 This means the first time I collect the most recent 3200 tweets (official limits) of all the target accounts, then update weekly.
+
+##V1.46
+Last update: from Feb 11 to Feb 17
 
 ##V1.45
 update data from Feb 04 to Feb 10
@@ -251,8 +262,6 @@ Papers that have mentioned/used this dataset
 Contact me
 ----------
 Jingyuan Yu  
-
-jingyuan[dot]yu[at]e-campus[dot]uab[dot]cat
 
 narcisoyu[at]gmail[dot]com
 
